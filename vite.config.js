@@ -3,6 +3,6 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/Sajid-Portfolio-/',    // ✅ Exact match
+  base: '/Sajid-Portfolio-/',
   publicDir: 'public',
 })
